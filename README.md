@@ -33,3 +33,4 @@ If you’re also learning Python, feel free to explore, fork, or use any part of
 Everyone starts somewhere.  
 This is my starting point — raw, simple, and improving every week.  
 If you’re learning too, keep going. The only difference between beginners and pros is consistency.
+

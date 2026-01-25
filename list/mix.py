@@ -1,0 +1,13 @@
+a=[]
+a.append(13)
+a.append(24)
+a.append(35)
+print(a)
+a.insert(1,'pranav')
+print(a)
+a.remove(24)
+print(a)
+a.pop()
+print(a)
+a.clear()
+print(a)
